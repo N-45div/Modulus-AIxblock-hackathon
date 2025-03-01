@@ -1,4 +1,4 @@
-# discordbot
+# AI web3 content assitant discord bot (AIxblock hackathon)
 
 To install dependencies:
 
